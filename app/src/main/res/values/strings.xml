@@ -11,7 +11,7 @@
     <string name="eight">8</string>
     <string name="nine">9</string>
     <string name="decimal">.</string>
-    <string name="clear">C</string>
+    <string name="clear">DEL</string>
     <string name="add">+</string>
     <string name="subtract">-</string>
     <string name="multiply">X</string>
